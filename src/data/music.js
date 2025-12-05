@@ -2,11 +2,11 @@ export default [
   {
     title: "Disappearin’",
     desc: "Electronic emotional track with ambient synths.",
-    link: "https://your-link-here",
+    link: "https://song.link/disappearin",
   },
   {
     title: "Fading Light",
     desc: "Melancholic EDM with deep atmosphere.",
-    link: "https://your-link-here",
+    link: "https://bit.ly/JS-FL",
   },
 ];
